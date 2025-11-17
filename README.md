@@ -1,3 +1,3 @@
 # prometheus-grafana-lab
 
-![graphana](screenshots/graphana.png)
+![graphana](screenshots/grafana.png)
